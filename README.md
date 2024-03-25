@@ -4,7 +4,7 @@ I'm a First-Class Honours University graduate working full-time in the Cyber Sec
 
 Outside of my technical life, I'm a massive football fan and I'm a season ticket holder for my local team, which ironically usually costs me more of my sanity than debugging errors does...
 
-- 👨‍🍳 Currently working on The Diamond Hands Crypto Tracker - A mobile app for Android surrounding cryptocurrency price tracking and news. Intended to one day be open-source and available on the Google Play Store.
+- 👨‍🍳 Currently working on [The Diamond Hands Crypto Tracker](https://github.com/jfisher8/Diamond-Hands-Crypto-Tracker) - A mobile app for Android surrounding cryptocurrency price tracking and news. Intended to one day be open-source and available on the Google Play Store.
 - ✍️ Refreshing myself on Flutter & Dart's best practices whilst also learning NextJS for web development here and there, too.
 
 ----
